@@ -1,0 +1,1 @@
+A Python program that simulates simple banking transactions. Its' purpose is to demonstrate a basic usage of classes file management in Python.
